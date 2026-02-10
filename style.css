@@ -1,0 +1,20 @@
+.col-75{
+    width: 1000px;
+    flex-direction: row;
+}
+body{
+    background-color: #db9e42;
+}
+.header_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+.header_container img{
+    width: 150px;
+    height: 150px;
+}
+.container_contatos{
+}
